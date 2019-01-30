@@ -6,7 +6,7 @@
 **COLLEGE:** MVGR College of engineering <br>
 **Location:** Vizianagaram <br>
 **-----------------------------------------------------------------------------------------------------------------------------------**
-###Blog <br>
+### Blog <br>
 
 #To know about my thoughts and philoshpies used in my life visit my [blog link](https://mahisagar.postach.io/) <br>
 **-----------------------------------------------------------------------------------------------------------------------------------**
