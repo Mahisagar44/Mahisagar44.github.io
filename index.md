@@ -15,7 +15,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://photos.app.goo.gl/JT2UExEvQJmz7STa9) and ![Image](src)
+[Link](https://photos.app.goo.gl/JT2UExEvQJmz7STa9) and ![Image](https://photos.app.goo.gl/JT2UExEvQJmz7STa9)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
