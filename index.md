@@ -12,8 +12,8 @@ To know about my thoughts and philoshpies used in my life visit my [blog link](h
 **-----------------------------------------------------------------------------------------------------------------------------------**
 ## My Intersts 
 
-- Playing and watching cricket. <br>
-- Learning about new things.
+-Playing and watching cricket. <br>
+-Learning about new things.
 **------------------------------------------------------------------------------------------------------------------------------------**
 ## Support or Contact
 
