@@ -5,16 +5,10 @@
 **BRANCH:** Electronics and Communication <br>
 **COLLEGE:** MVGR College of engineering <br>
 **Location:** Vizianagaram <br>
-**-----------------------------------------------------------------------------------------------------------------------------------**
 ## Blog
-
 To know about my thoughts and philoshpies used in my life visit my [blog link](https://mahisagar.postach.io/) <br>
-**-----------------------------------------------------------------------------------------------------------------------------------**
 ## My Intersts 
-
 -Playing and watching cricket. <br>
 -Learning about new things.
-**------------------------------------------------------------------------------------------------------------------------------------**
 ## Support or Contact
-
 Having trouble with Pages? visit out my [Facebook](https://www.facebook.com/divvala.sagar) or [contact support](https://github.com/contact) and we’ll help you sort it out.
