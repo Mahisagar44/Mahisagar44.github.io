@@ -8,7 +8,7 @@
 ### Blog
 
 To know about my thoughts and philoshpies used in my life visit my [blog link](https://mahisagar.postach.io/) <br>
-### Intersts 
+### Interests
 
 - Playing and watching cricket.
 - Learning new things.
