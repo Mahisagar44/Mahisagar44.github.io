@@ -14,7 +14,7 @@ To know about my thoughts and philoshpies used in my life visit my [blog link](h
 - Learning new things.
 ### Achievements
 
-- Won annual day cricket cup in the year 2017-18 at my collge.
+- Won annual day cricket cup in the years 2017-18 and 2018-19.
 - Got slected for a company called Axiom Io.
 ### Support or Contact
 
